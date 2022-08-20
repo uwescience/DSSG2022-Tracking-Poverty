@@ -36,15 +36,18 @@ Pros of Last Names:
 For the last name deterministic definition, we keep the naive definition for the residences where everyone shares a last name. When there are multiple last names, we split the residence into multiple households, one for each last name. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/deterministic_def.png">
+(color = last name)
 
 **Last Names Probabilistic**
 
 Because we know that many families contain multiple last names, we try using a weighted coin for the residences with multiple last names to decide if we should keep the naive definition or split the people apart by last name.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/prob_def.png">
+(color = last name)
 
 The coin is weighted by the likelihood that a residence is a family household according to Census data about household size and geographical tract. In the example below, two residences with the same household composition (five people, two last names) will have different probabilities since in County A, 80% of cases like this are families, compared to only 20% in County B.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/weight_expl.png">
+(color = last name)
 
 
