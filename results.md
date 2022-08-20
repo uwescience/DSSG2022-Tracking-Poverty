@@ -3,17 +3,25 @@ layout: page
 title: Results
 ---
 
-**Findings**
+**Point-in-Time**
 
-What were the outcomes of your analyses?
-What is your interpretation of those findings?
+*Ihsan*
+
+**Longitudinal**
+
+After implementing the modification algorithm and removing duplicates, the proportion of one-person residences decreased from 38% to 31%, which was closer to the census data. 
+
+*picture*
 
 **Deliverables**
 
-What artifacts or outputs did you produce?
-How will these deliverables be used? 
+We produced the following deliverables as a part of this project:
+- PostgreSQL database with clear schema
+- Longitudinal household file modifying certain anomalous cases of one-person households for April 2010
+- Point-in-time (April 2010) household file on the individual level with their household ID for each definition (naive, last name deterministic, and last name probabilistic)
+- Point-in-time household files, one for each definition, with each household ID and its characteristics
+- Summary tables of the distribution of household sizes for each definition
+- Summary maps
+- Documentation of the code, workflow, concepts, and analysis
 
-**Outcomes**
-
-How have your stakeholders responded to your deliverables? 
-What impact has your project had, or do you anticipate it having? 
+They will be used by future teams working to improve the household definitions and by future researchers working on using the existing definitions for their analyses.
