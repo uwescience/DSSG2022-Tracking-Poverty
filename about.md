@@ -47,7 +47,7 @@ Eliot Stanton
 Eliot (they/them) is a new graduate of Simmons University in Boston, where they studied data science. They enjoy conducting all manners of data exploration and visualization, especially using R. While at Simmons, Eliot also completed a theoretical gender studies thesis entitled “Binaries in Binary: Harmful Consequences and Radical Possibilities of Technology for Trans Liberation” and presented their work as a Keynote Speaker at the Simmons Undergraduate Symposium. During part of a COVID gap year, Eliot worked as a Civic Digital Fellow at the U.S. Census Bureau, and they have also interned at Bluebonnet Data and Bank of America. Eliot was initially interested in DSSG for the opportunity to apply technical skills in service of a meaningful cause, and they are extremely excited to work on the challenge of tracking poverty through a complex dataset. They’re also looking forward to close teamwork, mentorship, and engaging with ethical issues.
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Guo-Zhaowen-Headshot.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/zgpic.png">
 
 Zhaowen Guo
 
