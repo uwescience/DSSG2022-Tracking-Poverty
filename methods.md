@@ -33,9 +33,3 @@ First, we read background materials about the data generating process of WMLAD a
 
 At the same time, we strategized about which data to employ in creating households, and which definitions to create. Within R Studio, we picked 6 anonymized tracts to roughly represent Washington State and create a smaller dataset. This allowed us to load data into memory in RStudio and easily experiment with household definition algorithms before scaling up to the entire population. After finalizing our analysis, we used SQL and dbplyr to apply the algorithms to the whole WMLAD data for two months, April 2010 for the best Census comparison, and November 2014 for the best WMLAD data quality.
  
-
-**Analyses**
-
-Point-in-Time
-
-Longitudinal
