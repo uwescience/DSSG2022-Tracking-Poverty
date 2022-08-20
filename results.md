@@ -9,7 +9,7 @@ Under the point-in-time approach, we implemented 3 different household definitio
 
 *Comparing All Households*
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/pctdef.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/pctbydef.png">
 
 
 As the graph above shows, naive co-residence method results closely mimic Census definition of households.The discrepancy between one-person households is observed because WMLAD has limited data on children. For instance, single parents with a child are most likely labeled as one-person households, as the information of the child was not included in the WMLAD. This problem inevitably leads to undercounting higher size households, some of which are parents with missing children info. 
