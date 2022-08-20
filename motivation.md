@@ -34,7 +34,7 @@ We have identified three use cases:
 - Analyze results using WMLAD data to inform future researchers
 
 
-**Ethics**
+**Ethical Considerations**
 
 At every step of this project, we have considered the ethical questions that arise in working with a highly-sensitive dataset involving real people and social constructs.
 
