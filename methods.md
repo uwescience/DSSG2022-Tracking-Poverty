@@ -5,6 +5,8 @@ title: Methods
 
 **Data**
 
+WMLAD 
+
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/wmladdiagram.png">
 
 
