@@ -5,6 +5,9 @@ title: Methods
 
 **Data**
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/wmladdiagram.png">
+
+
 The Washington Merged Longitudinal Administrative Dataset (WMLAD) combines administrative data collected between 2010 and 2017 from several government agencies in the state, including the Employment Security Department (ESD), the Department of Social and Health Services (DSHS), Department of Health (DOH), Sec. of State, Department of Licensing (DOL), WA State Patrol. A few datasets that previous researchers formed out of the raw WMLAD data were also available. We were primarily interested in using information on addresses, demographics, and DSHS assistance units.
 
 After the initial exploration of all of the available datasets, we built tables in a PostgreSQL database containing only the data we were interested in. We restructured the tables into the most convenient formats for storage and identified clear links between their variables. Additionally, we uploaded the 2010 Decennial Census data for the state of Washington  to the database and linked with WMLAD geographies. Finally, we represented our database schema through an Entity-Relationship diagram that will help onboard future users of the data to quickly join tables or switch between wide and long formats.
