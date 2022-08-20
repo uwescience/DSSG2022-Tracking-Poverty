@@ -6,7 +6,7 @@ title: About
 
 **Team Photo**
 
-*picture*
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/tpteam.png">
 
 
 **Individual Bios**
