@@ -5,7 +5,6 @@ title: Results
 
 **Point-in-Time**
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/seattle_hh_maps.pdf">
 
 **Longitudinal**
 
