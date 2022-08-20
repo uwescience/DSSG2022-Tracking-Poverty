@@ -5,8 +5,7 @@ title: Results
 
 **Point-in-Time**
 
-*Ihsan*
-
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/seattle_hh_maps.pdf">
 **Longitudinal**
 
 After implementing the modification algorithm and removing duplicates, the proportion of one-person residences decreased from 38% to 31%, which was closer to the census data. 
